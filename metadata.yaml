@@ -1,0 +1,27 @@
+_repo: Studies-in-Forensic-Psychiatry_19168
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Glueck, Bernard
+    birthdate: 1883
+    gutenberg_agent_id: '8529'
+    url: http://www.gutenberg.org/2009/agents/8529
+description: ''
+gutenberg_issued: '2006-09-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19168'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mentally ill offenders'
+- !lcsh 'Insanity (Law)'
+- !lcsh 'Psychology, Pathological'
+- !lcc 'RA'
+title: Studies in Forensic Psychiatry
+url: http://www.gutenberg.org/ebooks/19168
